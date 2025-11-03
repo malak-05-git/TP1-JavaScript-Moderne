@@ -1,0 +1,12 @@
+{
+  "name": "tp-js-base",
+  "version": "1.0.0",
+  "description": "TP1 - JavaScript Moderne (ES6+)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ton Nom",
+  "license": "MIT"
+}
